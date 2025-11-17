@@ -22,7 +22,6 @@
 - 💻 ML/AI Intern at Connectors  
 - 🔍 Interested in AI applications in Healthcare & Sports Analytics  
 - 🌱 Currently learning advanced ML pipelines & deep learning  
-- 📝 Fun fact: I love turning datasets into insights  
 
 ---
 
@@ -62,7 +61,6 @@
 | ------- | ----------- | ---- |
 | Heart Disease Prediction App | ML web app to predict heart disease risk | [GitHub](#) |
 | AI Football Performance Prediction | Predict football teams' points at season end | [GitHub](#) |
-| Customer Churn Prediction Model | Helps businesses retain customers using ML | [GitHub](#) |
 
 ---
 
