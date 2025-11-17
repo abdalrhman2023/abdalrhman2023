@@ -79,7 +79,7 @@
 <!-- ================== GITHUB STATS ================== -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalrhman-badawi&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdalrhman2023&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ---
