@@ -1,49 +1,98 @@
-<h2 align="left">Hi 👋! My name is Abdalrhman Badawi and I'm a  Machine Learning Engineer </h2>
+<!-- ================== HEADER ================== -->
+<h1 align="center">Hi 👋, I'm Abdalrhman Badawi</h1>
+<h3 align="center">ML/AI Intern | AI in Healthcare & Sports Analytics Enthusiast</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdalrhman-badawi/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abdalrhman.mahmoud2030@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<!-- ================== ABOUT ME ================== -->
+## 👨‍💻 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200"/>
+</p>
 
-###
+- 🎓 B.E. in Artificial Intelligence Engineering at Mansoura University (2027)  
+- 💻 ML/AI Intern at Connectors  
+- 🔍 Interested in AI applications in Healthcare & Sports Analytics  
+- 🌱 Currently learning advanced ML pipelines & deep learning  
+- 📝 Fun fact: I love turning datasets into insights  
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+<!-- ================== SKILLS ================== -->
+## 🛠️ Skills
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+**Languages & Tools:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-EF5B0C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</p>
 
-###
+**Skill Levels:**  
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+| Skill | Level |
+|-------|-------|
+| Python | ██████████ 90% |
+| SQL | █████████ 75% |
+| NumPy | ██████████ 85% |
+| Pandas | ██████████ 90% |
+| Scikit-learn | █████████ 80% |
+| Matplotlib | ████████ 70% |
 
-###
+---
 
-<br clear="both">
+<!-- ================== PROJECTS ================== -->
+## 🚀 Projects
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR3bO4pEw7PrLDi/giphy.gif" width="200"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+| Project | Description | Link |
+| ------- | ----------- | ---- |
+| Heart Disease Prediction App | ML web app to predict heart disease risk | [GitHub](#) |
+| AI Football Performance Prediction | Predict football teams' points at season end | [GitHub](#) |
+| Customer Churn Prediction Model | Helps businesses retain customers using ML | [GitHub](#) |
 
-###
+---
+
+<!-- ================== CERTIFICATIONS ================== -->
+## 🎖️ Certifications
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="200"/>
+</p>
+
+- IBM: Python for Data Science, AI & Development  
+- DeepLearning.AI: Linear Algebra for Machine Learning  
+- Google: Foundations: Data, Data, Everywhere  
+
+---
+
+<!-- ================== GITHUB STATS ================== -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdalrhman-badawi&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+---
+
+<!-- ================== CONTACT ================== -->
+## 📫 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdalrhman-badawi/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abdalrhman.mahmoud2030@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
