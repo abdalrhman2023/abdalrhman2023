@@ -36,6 +36,12 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-EF5B0C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 **Skill Levels:**  
@@ -48,6 +54,10 @@
 | Pandas | ██████████ 90% |
 | Scikit-learn | █████████ 80% |
 | Matplotlib | ████████ 70% |
+| TensorFlow/Keras | ████████ 75% |
+| PyTorch | ████████ 70% |
+| OpenCV | ███████ 60% |
+| Git/GitHub | █████████ 85% |
 
 ---
 
@@ -72,6 +82,7 @@
 
 - IBM: Python for Data Science, AI & Development  
 - DeepLearning.AI: Linear Algebra for Machine Learning  
+- DeepLearning.AI: Supervised Machine Learning  
 - Google: Foundations: Data, Data, Everywhere  
 
 ---
@@ -80,9 +91,9 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdalrhman2023&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalrhman2023&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalrhman2023&layout=compact&theme=radical)
 
 ---
 
