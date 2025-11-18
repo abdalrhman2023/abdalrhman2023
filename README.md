@@ -21,7 +21,7 @@
 
 
 - 🎓 B.E. in Artificial Intelligence Engineering at Mansoura University (2027)  
-- 💻 ML/AI Intern at Connectors  
+- 💻 ML/AI Intern at DEPI  
 - 🔍 Interested in AI applications in Healthcare & Sports Analytics  
 - 🌱 Currently learning advanced ML pipelines & deep learning  
 
