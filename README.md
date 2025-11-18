@@ -15,8 +15,9 @@
 <!-- ================== ABOUT ME ================== -->
 ## 👨‍💻 About Me
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="150"/>
+  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="200"/>
 </p>
+
 
 
 - 🎓 B.E. in Artificial Intelligence Engineering at Mansoura University (2027)  
