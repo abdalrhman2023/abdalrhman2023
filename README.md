@@ -66,7 +66,7 @@
 <!-- ================== PROJECTS ================== -->
 ## 🚀 Projects
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR3bO4pEw7PrLDi/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamsxNDlpOHk2dTlsbDY5ZmhubjVkcDBvZDNoYjhzejN1dWE2NWtrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduKoCblNVAgAbYI/giphy.gif" width="200"/>
 </p>
 
 | Project | Description | Link |
