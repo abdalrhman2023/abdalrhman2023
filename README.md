@@ -15,7 +15,7 @@
 <!-- ================== ABOUT ME ================== -->
 ## 👨‍💻 About Me
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="200"/>
 </p>
 
 
