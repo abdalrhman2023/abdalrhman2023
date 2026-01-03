@@ -1,94 +1,93 @@
 <!-- ================== HEADER ================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=21E7E1&center=true&vCenter=true&width=525&lines=Welcome+to+My+GitHub!;I'm+Abdalrhman+Badawi+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Abdalrhman Badawi</h1>
 <h3 align="center">ML/AI Intern | AI in Healthcare & Sports Analytics Enthusiast</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/abdalrhman-badawi/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-abdalrhman--badawi-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abdalrhman.mahmoud2030@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-abdalrhman.mahmoud2030@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <!-- ================== ABOUT ME ================== -->
-
-## 👤 About Me
-
+## 👨‍💻 About Me
 <p align="center">
-  <img src="https://media1.giphy.com/media/ef7GqsDYDIKFa/giphy.gif" width="160"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs5MjlkZ2M0MHVnZzBnYXZ0a2Q3cG9lNGNlOGMwbXd6MXVqazk3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ef7GqsDYDIKFa/giphy.gif" width="200"/>
 </p>
 
-🎓 Engineering Student (B.E. in Artificial Intelligence, Mansoura University – 2027)  
-💻 ML/AI Intern @ <b>DEPI</b>  
-⛑ AI for Healthcare & Sports Analytics Fan  
-🔬 Currently learning: Advanced ML Pipelines & Deep Learning  
-💡 Passionate about transforming ideas into impactful solutions  
+
+
+- 🎓 B.E. in Artificial Intelligence Engineering at Mansoura University (2027)  
+- 💻 ML/AI Intern at DEPI  
+- 🔍 Interested in AI applications in Healthcare & Sports Analytics  
+- 🌱 Currently learning advanced ML pipelines & deep learning  
 
 ---
 
 <!-- ================== SKILLS ================== -->
+## 🛠️ Skills
 
-## 🛠️ My Toolbelt
-
-### 💻 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,numpy,pandas,sklearn,opencv,matplotlib,sql,git,github&theme=light" />
+**Languages & Tools:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-EF5B0C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 🚦 Skill Levels
+**Skill Levels:**  
 
-| Python | Pandas | NumPy | Git/GitHub | Scikit-learn | SQL | TensorFlow/Keras | Matplotlib | PyTorch | OpenCV |
-|--------|--------|-------|------------|--------------|-----|------------------|------------|---------|--------|
-| ![90%](https://progress-bar.dev/90/) | ![90%](https://progress-bar.dev/90/) | ![85%](https://progress-bar.dev/85/) | ![85%](https://progress-bar.dev/85/) | ![80%](https://progress-bar.dev/80/) | ![75%](https://progress-bar.dev/75/) | ![75%](https://progress-bar.dev/75/) | ![70%](https://progress-bar.dev/70/) | ![70%](https://progress-bar.dev/70/) | ![60%](https://progress-bar.dev/60/) |
+| Skill | Level |
+|-------|-------|
+| Python | ██████████ 90% |
+| SQL | █████████ 75% |
+| NumPy | ██████████ 85% |
+| Pandas | ██████████ 90% |
+| Scikit-learn | █████████ 80% |
+| Matplotlib | ████████ 70% |
+| TensorFlow/Keras | ████████ 75% |
+| PyTorch | ████████ 70% |
+| OpenCV | ███████ 60% |
+| Git/GitHub | █████████ 85% |
 
 ---
 
 <!-- ================== PROJECTS ================== -->
-
-## 🚀 Featured Projects
-
+## 🚀 Projects
 <p align="center">
-  <img src="https://media3.giphy.com/media/3oEduKoCblNVAgAbYI/giphy.gif" width="175"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamsxNDlpOHk2dTlsbDY5ZmhubjVkcDBvZDNoYjhzejN1dWE2NWtrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduKoCblNVAgAbYI/giphy.gif" width="200"/>
 </p>
 
-<details open>
-<summary><b>Heart Disease Prediction App</b></summary>
-<ul>
-  <li>⚡ ML web app to predict the risk of heart disease</li>
-  <li>🔗 <a href="#">GitHub Repository <sup>soon</sup></a></li>
-</ul>
-</details>
-
-<details>
-<summary><b>AI Football Performance Prediction</b></summary>
-<ul>
-  <li>⚡ Predict football teams’ points at season end using ML</li>
-  <li>🔗 <a href="#">GitHub Repository <sup>soon</sup></a></li>
-</ul>
-</details>
+| Project | Description | Link |
+| ------- | ----------- | ---- |
+| Heart Disease Prediction App | ML web app to predict heart disease risk | [GitHub](#) |
+| AI Football Performance Prediction | Predict football teams' points at season end | [GitHub](#) |
 
 ---
 
 <!-- ================== CERTIFICATIONS ================== -->
-
 ## 🎖️ Certifications
-
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="200"/>
 </p>
 
-- <b>IBM:</b> Python for Data Science, AI & Development  
-- <b>DeepLearning.AI:</b> Linear Algebra for Machine Learning  
-- <b>DeepLearning.AI:</b> Supervised Machine Learning  
-- <b>Google:</b> Foundations: Data, Data, Everywhere  
+- IBM: Python for Data Science, AI & Development  
+- DeepLearning.AI: Linear Algebra for Machine Learning  
+- DeepLearning.AI: Supervised Machine Learning  
+- Google: Foundations: Data, Data, Everywhere  
 
 ---
-
-<!-- ================== GITHUB STATS ================== -->
 
 <!-- ================== GITHUB STATS ================== -->
 ## 📊 GitHub Stats
