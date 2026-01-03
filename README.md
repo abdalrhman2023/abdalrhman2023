@@ -90,41 +90,32 @@
 
 <!-- ================== GITHUB STATS ================== -->
 
+<!-- ================== GITHUB STATS ================== -->
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalrhman2023&show_icons=true&theme=gradient" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalrhman2023&layout=compact&theme=gradient" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdalrhman2023&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalrhman2023&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
+###
 
-<!-- ================== CONTRIBUTION GRAPH ================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdalrhman2023/abdalrhman2023/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdalrhman2023/abdalrhman2023/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abdalrhman2023/abdalrhman2023/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdalrhman2023/abdalrhman2023/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdalrhman2023/abdalrhman2023/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abdalrhman2023/abdalrhman2023/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
 
----
-
-<!-- ================== LET'S CONNECT ================== -->
-
-## 🤝 Let's Connect
-
+###
+<!-- ================== CONTACT ================== -->
+## 📫 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/abdalrhman-badawi/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abdalrhman.mahmoud2030@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <b>Thanks for stopping by! 💙</b><br>
-  <i>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</i>
 </p>
