@@ -39,20 +39,44 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,numpy,pandas,sklearn,opencv,matplotlib,sql,git,github&theme=light" />
 </p>
 
-### 🚦 Skill Levels
+<!-- ================== SKILL LEVELS ================== -->
+## 🛠️ Skill Levels
 
-| Python | Pandas | NumPy | Git/GitHub | Scikit-learn | SQL | TensorFlow/Keras | Matplotlib | PyTorch | OpenCV |
-|--------|--------|-------|------------|--------------|-----|------------------|------------|---------|--------|
-| ![90%](https://progress-bar.dev/90/) | ![90%](https://progress-bar.dev/90/) | ![85%](https://progress-bar.dev/85/) | ![85%](https://progress-bar.dev/85/) | ![80%](https://progress-bar.dev/80/) | ![75%](https://progress-bar.dev/75/) | ![75%](https://progress-bar.dev/75/) | ![70%](https://progress-bar.dev/70/) | ![70%](https://progress-bar.dev/70/) | ![60%](https://progress-bar.dev/60/) |
+<table align="center">
+  <tr>
+    <th>Python</th>
+    <th>Pandas</th>
+    <th>NumPy</th>
+    <th>Git/GitHub</th>
+    <th>Scikit-learn</th>
+    <th>SQL</th>
+    <th>TensorFlow/Keras</th>
+    <th>Matplotlib</th>
+    <th>PyTorch</th>
+    <th>OpenCV</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://progress-bar.dev/90/" alt="90%" /><br/>90%</td>
+    <td align="center"><img src="https://progress-bar.dev/90/" alt="90%" /><br/>90%</td>
+    <td align="center"><img src="https://progress-bar.dev/85/" alt="85%" /><br/>85%</td>
+    <td align="center"><img src="https://progress-bar.dev/85/" alt="85%" /><br/>85%</td>
+    <td align="center"><img src="https://progress-bar.dev/80/" alt="80%" /><br/>80%</td>
+    <td align="center"><img src="https://progress-bar.dev/75/" alt="75%" /><br/>75%</td>
+    <td align="center"><img src="https://progress-bar.dev/75/" alt="75%" /><br/>75%</td>
+    <td align="center"><img src="https://progress-bar.dev/70/" alt="70%" /><br/>70%</td>
+    <td align="center"><img src="https://progress-bar.dev/70/" alt="70%" /><br/>70%</td>
+    <td align="center"><img src="https://progress-bar.dev/60/" alt="60%" /><br/>60%</td>
+  </tr>
+</table>
 
 ---
 
-<!-- ================== PROJECTS ================== -->
-
 ## 🚀 Featured Projects
 
+### <img src="https://img.icons8.com/color/48/000000/rocket--v2.png" width="28"/> Featured Projects
+
 <p align="center">
-  <img src="https://media3.giphy.com/media/3oEduKoCblNVAgAbYI/giphy.gif" width="175"/>
+  <img src="https://media.giphy.com/media/3oEduKoCblNVAgAbYI/giphy.gif" width="200" alt="Featured project image"/>
 </p>
 
 <details open>
@@ -70,8 +94,6 @@
   <li>🔗 <a href="#">GitHub Repository <sup>soon</sup></a></li>
 </ul>
 </details>
-
----
 
 <!-- ================== CERTIFICATIONS ================== -->
 
