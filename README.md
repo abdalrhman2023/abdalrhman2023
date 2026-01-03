@@ -39,11 +39,11 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,numpy,pandas,sklearn,opencv,matplotlib,sql,git,github&theme=light" />
 </p>
 
-### 🚦 Skill Levels
+## 🛠️ Skill Levels
 
-| Python | Pandas | NumPy | Git/GitHub | Scikit-learn | SQL | TensorFlow/Keras | Matplotlib | PyTorch | OpenCV |
-|--------|--------|-------|------------|--------------|-----|------------------|------------|---------|--------|
-| ![90%](https://progress-bar.dev/90/) | ![90%](https://progress-bar.dev/90/) | ![85%](https://progress-bar.dev/85/) | ![85%](https://progress-bar.dev/85/) | ![80%](https://progress-bar.dev/80/) | ![75%](https://progress-bar.dev/75/) | ![75%](https://progress-bar.dev/75/) | ![70%](https://progress-bar.dev/70/) | ![70%](https://progress-bar.dev/70/) | ![60%](https://progress-bar.dev/60/) |
+| Python         | Pandas         | NumPy         | Git/GitHub     | Scikit-learn    | SQL           | TensorFlow/Keras | Matplotlib     | PyTorch        | OpenCV         |
+|:--------------:|:--------------:|:-------------:|:--------------:|:---------------:|:-------------:|:----------------:|:--------------:|:--------------:|:--------------:|
+| 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 85% | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 85% | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 80% | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 75% | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 75%     | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 70% | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 70% | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 60% |
 
 ---
 
@@ -92,12 +92,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalrhman2023&show_icons=true&theme=gradient" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalrhman2023&layout=compact&theme=gradient" height="165"/>
-</p>
+<!-- Simple badges or just a short description -->
+- **Total Repos:** 8+
+- **Main Language:** Python
+- **Contributions this year:** 250+  
+_(يمكنك إضافة شارات أخرى أو أرقام حقيقية حسب رغبتك)_
 
----
+<!-- يمكنك أيضًا إضافة هذه الشارات (من shields.io): -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/abdalrhman2023?style=for-the-badge&label=Follow" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/abdalrhman2023?style=for-the-badge" alt="Stars"/>
+</p>
 
 <!-- ================== CONTRIBUTION GRAPH ================== -->
 
