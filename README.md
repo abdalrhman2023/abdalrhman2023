@@ -337,25 +337,8 @@
 <br />
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://open.spotify.com/user/h88kupp1rqnbne71apeftf2ja">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=h88kupp1rqnbne71apeftf2ja&width=450" alt="Spotify Recently Played">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/abdalrhman2023">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=h88kupp1rqnbne71apeftf2ja&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="Now Playing">
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=h88kupp1rqnbne71apeftf2ja">
-    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=h88kupp1rqnbne71apeftf2ja" alt="Data Card for Spotify">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=h88kupp1rqnbne71apeftf2ja&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify GitHub Profile">
   </a>
 </div>
 
