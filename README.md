@@ -318,39 +318,44 @@
 <!--------------------------------[ Spotify Account ]----------------------------------->
 
 <h2 align="center">
-  My Spotify World
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="30" height="30" />
+  My Spotify World 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="30" height="30" /></sub>
 </h2>
-
 <p align="center">
-  <i>Explore My Meticulously Curated Spotify Playlist — A Source Of Focus, Energy, And Inspiration.</i>
+    <i>Explore My Meticulously Curated Spotify Playlist, My Personal Collection Of Holy Quran Recitations & Islamic Content - A source Of Tranquility, Spiritual Focus, And Inner Peace.</i>
 </p>
 
 <h5 align="center">Enjoy The Tunes!</h5>
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/1EhwTyBH9luHI50TB0X9jT?si=b59325476ea04b66" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" alt="My Playlist">
-  </a>
+<a href="https://open.spotify.com/playlist/1EhwTyBH9luHI50TB0X9jT?si=0c1659b31dbc41a7" target="_blank">
+<img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" alt="My Playlist">
+</a>
 </p>
 
 <br />
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://open.spotify.com/user/h88kupp1rqnbne71apeftf2ja">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=h88kupp1rqnbne71apeftf2ja&width=400" alt="Spotify Recently Played">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/abdalrhman2023">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=h88kupp1rqnbne71apeftf2ja&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" width="400">
-        </a>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td>
+<a href="https://open.spotify.com/user/h88kupp1rqnbne71apeftf2ja">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=h88kupp1rqnbne71apeftf2ja&width=450" alt="Spotify Recently Played">
+</a>
+</td>
+<td>
+<a href="https://github.com/abdalrhman2023">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=h88kupp1rqnbne71apeftf2ja&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="Now Playing">
+</a>
+</td>
+</tr>
+</table>
+
+<br />
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=h88kupp1rqnbne71apeftf2ja">
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=h88kupp1rqnbne71apeftf2ja" alt="Data Card for Spotify">
+</a>
 </div>
 
 <!--------------------------------[ Dates & Quotes With Moon ]----------------------------------->
