@@ -203,7 +203,7 @@
   Academic Background
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation" width="30" height="30" />
 </h2>
-
+<div align="center">
 <table width="100%">
   <thead>
     <tr>
