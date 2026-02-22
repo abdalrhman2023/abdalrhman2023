@@ -341,22 +341,16 @@
     <tr>
       <td>
         <a href="https://open.spotify.com/user/h88kupp1rqnbne71apeftf2ja">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=h88kupp1rqnbne71apeftf2ja&width=450" alt="Spotify Recently Played">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=h88kupp1rqnbne71apeftf2ja&width=400" alt="Spotify Recently Played">
         </a>
       </td>
       <td>
         <a href="https://github.com/abdalrhman2023">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=h88kupp1rqnbne71apeftf2ja&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify GitHub Profile">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=h88kupp1rqnbne71apeftf2ja&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" width="400">
         </a>
       </td>
     </tr>
   </table>
-
-  <br />
-
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=h88kupp1rqnbne71apeftf2ja">
-    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=h88kupp1rqnbne71apeftf2ja" alt="Data Card for Spotify">
-  </a>
 </div>
 
 <!--------------------------------[ Dates & Quotes With Moon ]----------------------------------->
