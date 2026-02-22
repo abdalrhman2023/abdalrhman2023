@@ -16,7 +16,7 @@
 
   <div align="center">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F2004A&center=true&vCenter=true&width=520&lines=Welcome+To+My+World;Muslim;Egyptian;ML%2FAI+Intern;AI+in+Healthcare+%26+Sports+Analytics;AI+Engineering+Student;Data+Scientist+In+The+Making;Always+Learning+%26+Building;BOO!"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F2004A&center=true&vCenter=true&width=520&lines=Welcome+To+My+World;ML%2FAI+Intern;AI+in+Healthcare+%26+Sports+Analytics;AI+Engineering+Student;Data+Scientist+In+The+Making;Always+Learning+%26+Building;BOO!"
       alt="Typing SVG"
     />
   </div>
