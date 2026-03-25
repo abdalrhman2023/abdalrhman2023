@@ -358,33 +358,6 @@
 </a>
 </div>
 
-<!--------------------------------[ Dates & Quotes With Moon ]----------------------------------->
-
-<h3 align="center">
-  Quotes & Date NY-Moon
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/First%20Quarter%20Moon.webp" alt="First Quarter Moon" width="30" height="30" />
-</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="middle" align="center" width="50%">
-        <img src="https://i.countdownmail.com/4q6jxv.gif" border="0" alt="countdownmail.com" width="100%"/>
-      </td>
-      <td valign="middle" align="center" width="50%">
-        <img src="https://moon-svg.minung.dev/moon.svg?size=100&theme=ray&rotate=8" alt="Moon Phase" width="130">
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <p align="center">
-    <a href="https://github.com/marketplace/actions/github-readme-quotes">
-      <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&quoteCategory=general&borderColor=red" alt="Random Quote">
-    </a>
-  </p>
-</div>
 
 <!--------------------------------[ Contact Me ]----------------------------------->
 
