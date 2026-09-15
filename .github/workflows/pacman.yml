@@ -23,7 +23,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: abdalrhman2023
-          output_path: dist/pacman-contribution-graph.svg
+          games: pacman
 
       - name: Push pacman graph to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
